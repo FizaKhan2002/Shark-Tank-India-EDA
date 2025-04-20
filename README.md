@@ -1,18 +1,17 @@
-# Shark Tank India – Data Analytics 📊
+# Shark Tank India – Investment Analytics 🦈
 
-Exploratory data analysis of Shark Tank India dataset to uncover investment trends and patterns.
+A data analytics project analyzing Shark Tank India's investment trends and startup pitches.
 
-## 🔍 Key Insights
-- Sector-wise investment trends
-- Investor preferences and success ratios
-- High-value pitch analysis
+## 🔍 Insights Explored
+- Investment per investor
+- Startup sector popularity
+- Equity vs. deal amount trends
 
-## 📊 Tools & Libraries
-- Python, Pandas, Seaborn, Matplotlib
+## 🛠️ Tools Used
+- Python (Pandas, Seaborn)
+- Visual storytelling with advanced plots
 
-## 📁 Files
-- `SharkTankIndia_EDA.ipynb` 
-- Dataset file (`sharktank.csv`)
+## 📁 File
+- `Shark_Tank_da_project.ipynb`
 
-## 📌 Output
-Visualized trends using Seaborn (bar plots, heatmaps, etc.) and grouped insights using Pandas.
+> Great business-focused analytics project with strong EDA work.
